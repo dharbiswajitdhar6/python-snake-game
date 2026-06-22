@@ -24,5 +24,19 @@ A classic Snake Game built using Python Turtle Graphics.
 python main.py
 
 ```
-Snake
-![](Snake.png)
+##Screenshot
+![Snke Gameplay](Snake.png)
+
+## Files
+
+- main.py : Main game loop
+- snake.py : Snake movement logic
+- food.py : Food generation
+- scoreboard.py : Score and game over handling
+
+## What I Learned
+
+- Object-Oriented Programming (OOP)
+- Collision Detection
+- Event Handling
+- Python Turtle Graphics
