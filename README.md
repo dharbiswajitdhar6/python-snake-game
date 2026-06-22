@@ -23,4 +23,6 @@ A classic Snake Game built using Python Turtle Graphics.
 ```bash
 python main.py
 
+```
+Snake
 ![](Snake.png)
